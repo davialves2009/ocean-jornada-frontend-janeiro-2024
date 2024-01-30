@@ -6,11 +6,11 @@ const item1 = {
   image:'https://rickandmortyapi.com/api/character/avatar/1.jpeg'
 }
   return (
-    <divi className="cards">
+    <div className="cards">
       <Card  item={item1} />
       <Card  item={item1} />
-      </div>
-   </>
+      <div/>
+    </>
   )
 }
 export default App
