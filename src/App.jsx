@@ -8,7 +8,7 @@ const item1 = {
   return (
     <>
       <Card  item={item1} />
-      <Card  item={item1}  />
+      <Card  item={item1} />
       
    </>
   )
