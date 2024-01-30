@@ -8,8 +8,7 @@ const item1 = {
   return (
     <div className="cards">
       <Card  item={item1} />
-      <Card  item={item1} />
-      <div/>
+    <div/>
     </>
   )
 }
